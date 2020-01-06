@@ -1,0 +1,204 @@
+[13:03:19.219]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:03:35.436]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:03:35.439]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:45:52.220]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:23.950]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:23.953]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:24.666]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:24.668]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:25.303]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:25.306]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:25.944]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:25.946]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:26.585]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:26.587]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:27.219]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:27.227]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:27.881]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:27.883]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:32.142]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:32.144]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:32.485]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:32.488]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:33.112]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:33.114]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:33.728]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:33.730]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:34.335]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:34.337]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:35.264]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:35.266]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:35.867]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:35.869]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:36.184]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:36.186]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:36.827]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:36.829]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:37.464]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:37.466]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:38.106]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:38.109]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:38.751]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:38.755]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:39.402]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:39.405]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:40.026]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:40.028]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:40.664]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:40.666]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:41.643]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:41.646]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:42.585]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:42.588]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:43.224]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:43.226]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:43.872]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:43.876]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:53.457]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:53.459]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:54.426]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:54.429]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:55.072]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:55.074]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:55.696]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:55.698]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:46:56.036]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar)
+[13:46:56.039]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result)
+[13:52:59.780]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255

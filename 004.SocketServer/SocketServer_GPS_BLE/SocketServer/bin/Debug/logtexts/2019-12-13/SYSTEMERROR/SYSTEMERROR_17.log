@@ -1,0 +1,9 @@
+[17:04:16.466]	System.InvalidOperationException: 연결되지 않은 소켓에서 작업할 수 없습니다.
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer\Class\clsClientService.cs:줄 240
+[17:04:18.819]	System.Net.Sockets.SocketException (0x80004005): 소켓이 연결되어 있지 않거나 Sendto 호출을 사용하여 데이터그램 소켓에 보내는 경우에 주소가 제공되지 않아서 데이터를 보내거나 받도록 요청할 수 없습니다
+   위치: System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   위치: SocketServer.Class.clsSocket.DisConn() 파일 D:\002.Project\004.SocketServer\SocketServer\Class\clsSocket.cs:줄 271
+[17:04:24.327]	System.Net.Sockets.SocketException (0x80004005): 소켓이 연결되어 있지 않거나 Sendto 호출을 사용하여 데이터그램 소켓에 보내는 경우에 주소가 제공되지 않아서 데이터를 보내거나 받도록 요청할 수 없습니다
+   위치: System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   위치: SocketServer.Class.clsSocket.DisConn() 파일 D:\002.Project\004.SocketServer\SocketServer\Class\clsSocket.cs:줄 271

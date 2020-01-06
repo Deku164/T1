@@ -1,0 +1,48 @@
+[17:39:39.855]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:39.893]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:39.939]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:39.984]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.033]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.079]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.118]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.165]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.214]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.267]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:39:40.315]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[17:49:58.665]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255

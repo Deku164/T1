@@ -1,0 +1,94 @@
+[10:33:48.526]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsSocket.cs:줄 100
+[10:34:09.474]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:09.986]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:10.503]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:11.022]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:11.545]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:12.044]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:12.557]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:13.057]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:13.563]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:14.073]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:14.585]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:15.103]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:15.606]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:16.109]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:16.621]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:17.122]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:17.631]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:18.144]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:18.655]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:19.168]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:19.669]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:34:20.174]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 438
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 125
+[10:36:17.414]	System.ArgumentOutOfRangeException: Progress value must be -1 or between Minimum and Maximum.
+   위치: MetroFramework.Controls.MetroProgressSpinner.set_Value(Int32 value)
+   위치: SocketServer.Form1.UI_DATA_UPDATE()
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e)

@@ -1,0 +1,7 @@
+[18:47:22.247]	System.Net.Sockets.SocketException (0x80004005): 소켓이 연결되어 있지 않거나 Sendto 호출을 사용하여 데이터그램 소켓에 보내는 경우에 주소가 제공되지 않아서 데이터를 보내거나 받도록 요청할 수 없습니다
+   위치: System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   위치: SocketServer.Class.clsSocket.DisConn() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsSocket.cs:줄 271
+[18:47:22.258]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255

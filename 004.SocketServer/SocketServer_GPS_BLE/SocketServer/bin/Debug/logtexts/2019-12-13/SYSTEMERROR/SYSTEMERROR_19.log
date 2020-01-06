@@ -1,0 +1,72 @@
+[19:44:52.092]	System.Net.Sockets.SocketException (0x80004005): 소켓이 연결되어 있지 않거나 Sendto 호출을 사용하여 데이터그램 소켓에 보내는 경우에 주소가 제공되지 않아서 데이터를 보내거나 받도록 요청할 수 없습니다
+   위치: System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   위치: SocketServer.Class.clsSocket.DisConn() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsSocket.cs:줄 271
+[19:44:52.099]	AcceptClient CONNECTED ERROR : System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Class.clsSocket.AcceptClient(IAsyncResult ar) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsSocket.cs:줄 77
+[19:44:52.102]	System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.TcpClient'
+   위치: System.Net.Sockets.TcpClient.GetStream()
+   위치: SocketServer.Class.clsClientService.ReadCallback(IAsyncResult result) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Class\clsClientService.cs:줄 255
+[19:58:42.525]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:43.033]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:43.540]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:44.049]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:45.581]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:46.093]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:46.619]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:47.124]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:48.153]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:49.146]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:49.649]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:50.162]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:50.672]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:51.182]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:51.695]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:52.199]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:52.706]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:53.709]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:54.241]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:54.744]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
+[19:58:55.271]	System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: SocketServer.Form1.UI_DATA_UPDATE() 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 239
+   위치: SocketServer.Form1._tmrUI_Tick(Object sender, EventArgs e) 파일 D:\002.Project\004.SocketServer\SocketServer_GPS_BLE\SocketServer\Form1.cs:줄 115
